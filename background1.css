@@ -1,0 +1,22 @@
+.background1 {
+	text-align: center;
+	background-image: url("https://wallpapercave.com/wp/wp2661684.jpg");
+        background-repeat: vertical;
+        background-attachment: fixed;
+        background-size: 100%;
+      }
+
+.shrink1 {
+	
+	height: 30%;
+	width: 60%;
+}
+
+.margin1 {
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+.margin2 {
+	margin: auto;
+}
